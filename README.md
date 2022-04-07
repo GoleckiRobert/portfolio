@@ -1,25 +1,25 @@
 # Portfolio
 
-# About Me
+## About Me
 
-# Tools
-*Jira, Trello -Issue tracking and project management tool for developers
-*Github
+## Tools
+* Jira, Trello -Issue tracking and project management tool for developers
+* Github
 
-# Tech skills
-*SCRUM, AGILE
-*SQL
-*Creating test cases
+## Tech skills
+* SCRUM, AGILE
+* SQL
+* Creating test cases
 
-# Books
+## Books
 
-# Groups for knowledge gathering
+## Groups for knowledge gathering
 [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
 
-# Blog read
+## Blog read
 
-# Webinars
+## Webinars
 
-# My Test Documentation
+## My Test Documentation
 
-# My projects
+## My projects
