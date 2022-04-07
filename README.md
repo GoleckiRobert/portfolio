@@ -10,6 +10,7 @@
 *SCRUM, AGILE
 *SQL
 *Creating test cases
+
 # Books
 
 # Groups for knowledge gathering
