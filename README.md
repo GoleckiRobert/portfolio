@@ -1,18 +1,18 @@
 # portfolio
-#About Me
+# About Me
 
-#Tools
+# Tools
 
-#Tech skills
+# Tech skills
 
-#Books
+# Books
 
-#Groups for knowledge gathering
+# Groups for knowledge gathering
 
-#Blog read
+# Blog read
 
-#Webinars
+# Webinars
 
-#My Test Documentation
+# My Test Documentation
 
-#My projects
+# My projects
